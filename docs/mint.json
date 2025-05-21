@@ -1,11 +1,11 @@
 {
   "name": "Hyperwarp",
   "description": "Decentralized marketplace for veKitten NFTs",
-  "theme": "mint",
+  "theme": "venus",
   "logo": "https://www.hyperwarp.fi/logo.svg",
   "favicon": "/favicon.png",
   "colors": {
-    "primary": "#CA3A32"
+    "primary": "#1CAA81"
   },
   "docs": {
     "root": "docs"
@@ -25,26 +25,15 @@
   "navigation": [
     {
       "group": "Overview",
-      "pages": [
-        "index",
-        "how-it-works",
-        "security-simplicity"
-      ]
+      "pages": ["index", "how-it-works", "security-simplicity"]
     },
     {
       "group": "Marketplace",
-      "pages": [
-        "listing",
-        "fixed-bid-listing",
-        "dutch-auction",
-        "buying"
-      ]
+      "pages": ["listing", "fixed-bid-listing", "dutch-auction", "buying"]
     },
     {
       "group": "Reference",
-      "pages": [
-        "contracts"
-      ]
+      "pages": ["contracts"]
     }
   ]
 }
