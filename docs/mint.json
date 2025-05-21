@@ -1,7 +1,7 @@
 {
   "name": "Hyperwarp",
   "description": "Decentralized marketplace for veKitten NFTs",
-  "theme": "quills",
+  "theme": "quill",
   "logo": "https://www.hyperwarp.fi/logo.svg",
   "favicon": "/favicon.png",
   "colors": {
