@@ -2,6 +2,7 @@
   "name": "Hyperwarp",
   "description": "Decentralized marketplace for veKitten NFTs",
   "theme": "venus",
+  "logo": "https://www.hyperwarp.fi/logo.svg",
   "favicon": "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/2728.svg",
   "colors": {
     "primary": "#1BAA81"
@@ -9,17 +10,19 @@
   "docs": {
     "root": "docs"
   },
-  "navigation": [
+  "topLinks": [
     {
       "name": "App",
       "icon": "book",
       "url": "https://hyperwarp.fi"
     },
     {
-      "name": "X",
+      "name": "Twitter",
       "icon": "twitter",
       "url": "https://twitter.com/hyperwarpfi"
-    },
+    }
+  ],
+  "navigation": [
     {
       "group": "Overview",
       "pages": [
