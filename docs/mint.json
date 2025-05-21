@@ -1,11 +1,11 @@
 {
   "name": "Hyperwarp",
   "description": "Decentralized marketplace for veKitten NFTs",
-  "theme": "venus",
+  "theme": "quills",
   "logo": "https://www.hyperwarp.fi/logo.svg",
   "favicon": "/favicon.png",
   "colors": {
-    "primary": "#1CAA81"
+    "primary": "#ff0000"
   },
   "docs": {
     "root": "docs"
