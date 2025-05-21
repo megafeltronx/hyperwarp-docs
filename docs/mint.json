@@ -12,7 +12,7 @@
   "docs": {
     "root": "docs"
   },
-  "links": [
+  "topLinks": [
     {
       "name": "App",
       "icon": "book",
