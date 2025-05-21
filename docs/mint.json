@@ -5,12 +5,7 @@
   "logo": "https://www.hyperwarp.fi/logo.svg",
   "favicon": "/favicon.png",
   "colors": {
-  "light": {
     "primary": "#1BAA81"
-    },
-    "dark": {
-      "primary": "#1BAA81"
-    }
   },
   "docs": {
     "root": "docs"
