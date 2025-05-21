@@ -3,7 +3,7 @@
   "description": "Decentralized marketplace for veKitten NFTs",
   "theme": "venus",
   "logo": "https://www.hyperwarp.fi/logo.svg",
-  "favicon": "https://www.hyperwarp.fi/favicon.ico",
+  "favicon": "https://www.hyperwarp.fi/apple-touch-icon.png",
   "colors": {
     "primary": "#1CAA81"
   },
