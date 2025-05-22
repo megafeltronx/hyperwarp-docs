@@ -26,8 +26,8 @@
       "pages": ["contracts"]
     },
     {
-      "group": "Links",
-      "links": [
+      "group": "External",
+      "pages": [
         {
           "name": "App",
           "icon": "book",
