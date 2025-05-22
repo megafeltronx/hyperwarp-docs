@@ -12,38 +12,26 @@
   "docs": {
     "root": "docs"
   },
-  "navigation": [
-    {
-      "group": "Overview",
-      "pages": ["index", "how-it-works", "security-simplicity"]
+  "navigation": {
+  "global": {
+    "anchors": [
+      {
+      "anchor": "App",
+      "icon": "book",
+      "href": "https://hyperwarp.fi"
     },
     {
-      "group": "Marketplace",
-      "pages": ["listing", "fixed-bid-listing", "dutch-auction", "buying"]
+      "anchor": "Discord",
+      "icon": "discord",
+      "href": "https://discord.gg/hyperwarp"
     },
     {
-      "group": "Reference",
-      "pages": ["contracts"]
-    },
-    {
-      "group": "External",
-      "pages": [
-        {
-          "name": "App",
-          "icon": "book",
-          "href": "https://hyperwarp.fi"
-        },
-        {
-          "name": "Discord",
-          "icon": "discord",
-          "href": "https://discord.gg/hyperwarp"
-        },
-        {
-          "name": "Twitter",
-          "icon": "twitter",
-          "href": "https://twitter.com/hyperwarpfi"
-        }
-      ]
+      "anchor": "Twitter",
+      "icon": "twitter",
+      "href": "https://twitter.com/hyperwarpfi"
     }
-  ]
+    ]
+  }
+}
+
 }
