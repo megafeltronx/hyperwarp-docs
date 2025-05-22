@@ -12,23 +12,24 @@
   "docs": {
     "root": "docs"
   },
-  "topLinks": [
-    {
-      "name": "App",
-      "icon": "book",
-      "url": "https://hyperwarp.fi"
-    },
-    {
-      "name": "Discord",
-      "icon": "discord",
-      "url": "https://discord.gg/hyperwarp"
-    },
-    {
-      "name": "Twitter",
-      "icon": "twitter",
-      "url": "https://twitter.com/hyperwarpfi"
-    }
-  ],
+  "links": [
+  {
+    "name": "App",
+    "icon": "book",
+    "url": "https://hyperwarp.fi"
+  },
+  {
+    "name": "Discord",
+    "icon": "discord",
+    "url": "https://discord.gg/hyperwarp"
+  },
+  {
+    "name": "Twitter",
+    "icon": "twitter",
+    "url": "https://twitter.com/hyperwarpfi"
+  }
+]
+,
   "navigation": [
     {
       "group": "Overview",
