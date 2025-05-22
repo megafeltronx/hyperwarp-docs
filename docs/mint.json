@@ -12,26 +12,25 @@
   "docs": {
     "root": "docs"
   },
-  "navigation": [
-    {
-      "group": "Links",
-      "pages": [
+  "navigation": {
+    "global": {
+      "anchors": [
         {
-          "name": "App",
+          "anchor": "App",
           "icon": "book",
           "href": "https://hyperwarp.fi"
         },
         {
-          "name": "Discord",
+          "anchor": "Discord",
           "icon": "discord",
           "href": "https://discord.gg/hyperwarp"
         },
         {
-          "name": "Twitter",
+          "anchor": "Twitter",
           "icon": "twitter",
           "href": "https://twitter.com/hyperwarpfi"
         }
       ]
     }
-  ]
+  }
 }
