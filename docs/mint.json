@@ -12,26 +12,26 @@
   "docs": {
     "root": "docs"
   },
-  "navigation": {
-  "global": {
-    "anchors": [
-      {
-      "anchor": "App",
-      "icon": "book",
-      "href": "https://hyperwarp.fi"
-    },
+  "navigation": [
     {
-      "anchor": "Discord",
-      "icon": "discord",
-      "href": "https://discord.gg/hyperwarp"
-    },
-    {
-      "anchor": "Twitter",
-      "icon": "twitter",
-      "href": "https://twitter.com/hyperwarpfi"
+      "group": "Links",
+      "pages": [
+        {
+          "name": "App",
+          "icon": "book",
+          "href": "https://hyperwarp.fi"
+        },
+        {
+          "name": "Discord",
+          "icon": "discord",
+          "href": "https://discord.gg/hyperwarp"
+        },
+        {
+          "name": "Twitter",
+          "icon": "twitter",
+          "href": "https://twitter.com/hyperwarpfi"
+        }
+      ]
     }
-    ]
-  }
-}
-
+  ]
 }
