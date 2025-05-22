@@ -1,7 +1,7 @@
 {
   "name": "Hyperwarp",
   "description": "Decentralized marketplace for veKitten NFTs",
-  "theme": "mint",
+  "theme": "quill",
   "logo": "https://www.hyperwarp.fi/logo.svg",
   "favicon": "/favicon.png",
   "colors": {
@@ -12,24 +12,25 @@
   "docs": {
     "root": "docs"
   },
-  "links": [
-  {
-    "name": "App",
-    "icon": "book",
-    "url": "https://hyperwarp.fi"
+ "global": {
+    "anchors": [
+      {
+        "anchor": "App",
+        "icon": "book",
+        "href": "https://hyperwarp.fi"
+      },
+      {
+        "anchor": "Discord",
+        "icon": "discord",
+        "href": "https://discord.gg/hyperwarp"
+      },
+      {
+        "anchor": "Twitter",
+        "icon": "twitter",
+        "href": "https://twitter.com/hyperwarpfi"
+      }
+    ]
   },
-  {
-    "name": "Discord",
-    "icon": "discord",
-    "url": "https://discord.gg/hyperwarp"
-  },
-  {
-    "name": "Twitter",
-    "icon": "twitter",
-    "url": "https://twitter.com/hyperwarpfi"
-  }
-]
-,
   "navigation": [
     {
       "group": "Overview",
