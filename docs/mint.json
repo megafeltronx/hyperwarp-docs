@@ -17,18 +17,18 @@
       "anchors": [
         {
           "anchor": "App",
-          "icon": "book",
-          "href": "https://hyperwarp.fi"
+          "href": "https://app.kittenswap.finance",
+          "icon": "book-open-cover"
         },
         {
           "anchor": "Discord",
-          "icon": "discord",
-          "href": "https://discord.gg/hyperwarp"
+          "href": "https://discord.com/invite/rRkWCYPeas",
+          "icon": "discord"
         },
         {
           "anchor": "Twitter",
-          "icon": "twitter",
-          "href": "https://twitter.com/hyperwarpfi"
+          "href": "https://x.com/kittenswaphype",
+          "icon": "X"
         }
       ]
     }
