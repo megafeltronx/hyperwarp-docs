@@ -1,36 +1,49 @@
 {
   "name": "Hyperwarp",
   "description": "Decentralized marketplace for veKitten NFTs",
-  "theme": "quill",
+  "theme": "venus",
   "logo": "https://www.hyperwarp.fi/logo.svg",
-  "favicon": "/favicon.png",
+  "favicon": "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/2728.svg",
   "colors": {
-    "primary": "#1BAA81",
-    "light": "#1BAA81",
-    "dark": "#1BAA81"
-  },
-  "docs": {
-    "root": "docs"
+    "primary": "#1BAA81"
   },
   "navigation": {
-    "global": {
-      "anchors": [
-        {
-          "anchor": "App",
-          "href": "https://hyperwarp.fi",
-          "icon": "book-open-cover"
-        },
-        {
-          "anchor": "Discord",
-          "href": "https://discord.gg/hyperwarp",
-          "icon": "discord"
-        },
-        {
-          "anchor": "Twitter",
-          "href": "https://twitter.com/hyperwarpfi",
-          "icon": "X"
-        }
-      ]
-    }
+    "links": [
+      {
+        "name": "App",
+        "icon": "book",
+        "url": "https://hyperwarp.fi"
+      },
+      {
+        "name": "Twitter",
+        "icon": "twitter",
+        "url": "https://twitter.com/hyperwarpfi"
+      }
+    ],
+    "sidebar": [
+      {
+        "group": "Overview",
+        "pages": [
+          "index",
+          "how-it-works",
+          "security-simplicity"
+        ]
+      },
+      {
+        "group": "Marketplace",
+        "pages": [
+          "listing",
+          "fixed-bid-listing",
+          "dutch-auction",
+          "buying"
+        ]
+      },
+      {
+        "group": "Reference",
+        "pages": [
+          "contracts"
+        ]
+      }
+    ]
   }
 }
