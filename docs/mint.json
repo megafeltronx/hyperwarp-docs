@@ -1,17 +1,14 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "name": "Hyperwarp",
-  "description": "Decentralized marketplace for veKitten NFTs",
   "theme": "mint",
-  "logo": {
-    "light": "https://www.hyperwarp.fi/logo.svg",
-    "dark": "https://www.hyperwarp.fi/logo.svg"
-  },
-  "favicon": "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/2728.svg",
+  "name": "Mint Starter Kit",
   "colors": {
-    "primary": "#1BAA81"
+    "primary": "#16A34A",
+    "light": "#07C983",
+    "dark": "#15803D"
   },
-"navigation": {
+  "favicon": "/favicon.svg",
+  "navigation": {
     "tabs": [
       {
         "tab": "Guides",
@@ -76,6 +73,30 @@
           "icon": "newspaper"
         }
       ]
+    }
+  },
+  "logo": {
+    "light": "/logo/light.svg",
+    "dark": "/logo/dark.svg"
+  },
+  "navbar": {
+    "links": [
+      {
+        "label": "Support",
+        "href": "mailto:hi@mintlify.com"
+      }
+    ],
+    "primary": {
+      "type": "button",
+      "label": "Dashboard",
+      "href": "https://dashboard.mintlify.com"
+    }
+  },
+  "footer": {
+    "socials": {
+      "x": "https://x.com/mintlify",
+      "github": "https://github.com/mintlify",
+      "linkedin": "https://linkedin.com/company/mintlify"
     }
   }
 }
