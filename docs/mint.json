@@ -1,13 +1,13 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "Hyperwarp",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#1BAA81",
+    "light": "#1BAA81",
+    "dark": "#1BAA81"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/favicon.png",
   "navigation": {
     "tabs": [
       {
@@ -38,21 +38,31 @@
         "tab": "API Reference",
         "groups": [
           {
-            "group": "API Documentation",
+            "group": "Overview",
             "pages": [
-              "api-reference/introduction"
+              "index",
+              "how-it-works",
+              "security-simplicity"
             ]
           },
           {
-            "group": "Endpoint Examples",
+            "group": "Marketplace",
             "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
+              "listing",
+              "fixed-bid-listing",
+              "dutch-auction",
+              "buying",
+              "selling"
+            ]
+          },
+          {
+            "group": "Reference",
+            "pages": [
+              "contracts",
+              "risk-disclosure"
             ]
           }
-        ]
+        ]  
       }
     ],
     "global": {
