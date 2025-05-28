@@ -1,49 +1,74 @@
 {
+  "$schema": "https://mintlify.com/docs.json",
   "name": "Hyperwarp",
   "description": "Decentralized marketplace for veKitten NFTs",
   "theme": "venus",
-  "logo": "https://www.hyperwarp.fi/logo.svg",
+  "logo": {
+    "light": "https://www.hyperwarp.fi/logo.svg",
+    "dark": "https://www.hyperwarp.fi/logo.svg"
+  },
   "favicon": "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/2728.svg",
   "colors": {
     "primary": "#1BAA81"
   },
   "navigation": {
-    "links": [
+    "tabs": [
       {
-        "name": "App",
-        "icon": "book",
-        "url": "https://hyperwarp.fi"
-      },
-      {
-        "name": "Twitter",
-        "icon": "twitter",
-        "url": "https://twitter.com/hyperwarpfi"
+        "tab": "Docs",
+        "groups": [
+          {
+            "group": "Overview",
+            "pages": [
+              "index",
+              "how-it-works",
+              "security-simplicity"
+            ]
+          },
+          {
+            "group": "Marketplace",
+            "pages": [
+              "listing",
+              "fixed-bid-listing",
+              "dutch-auction",
+              "buying"
+            ]
+          },
+          {
+            "group": "Reference",
+            "pages": [
+              "contracts",
+              "risk-disclosure"
+            ]
+          }
+        ]
       }
     ],
-    "sidebar": [
+    "global": {
+      "anchors": [
+        {
+          "anchor": "App",
+          "href": "https://hyperwarp.fi",
+          "icon": "book"
+        },
+        {
+          "anchor": "Twitter",
+          "href": "https://twitter.com/hyperwarpfi",
+          "icon": "twitter"
+        }
+      ]
+    }
+  },
+  "navbar": {
+    "links": [
       {
-        "group": "Overview",
-        "pages": [
-          "index",
-          "how-it-works",
-          "security-simplicity"
-        ]
-      },
-      {
-        "group": "Marketplace",
-        "pages": [
-          "listing",
-          "fixed-bid-listing",
-          "dutch-auction",
-          "buying"
-        ]
-      },
-      {
-        "group": "Reference",
-        "pages": [
-          "contracts"
-        ]
+        "label": "Support",
+        "href": "mailto:founders@hyperwarp.fi"
       }
     ]
+  },
+  "footer": {
+    "socials": {
+      "x": "https://twitter.com/hyperwarpfi"
+    }
   }
 }
