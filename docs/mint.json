@@ -2,7 +2,7 @@
   "$schema": "https://mintlify.com/docs.json",
   "name": "Hyperwarp",
   "description": "Decentralized marketplace for veKitten NFTs",
-  "theme": "venus",
+  "theme": "mint",
   "logo": {
     "light": "https://www.hyperwarp.fi/logo.svg",
     "dark": "https://www.hyperwarp.fi/logo.svg"
@@ -56,19 +56,6 @@
           "icon": "twitter"
         }
       ]
-    }
-  },
-  "navbar": {
-    "links": [
-      {
-        "label": "Support",
-        "href": "mailto:founders@hyperwarp.fi"
-      }
-    ]
-  },
-  "footer": {
-    "socials": {
-      "x": "https://twitter.com/hyperwarpfi"
     }
   }
 }
