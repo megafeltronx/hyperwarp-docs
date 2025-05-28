@@ -11,33 +11,48 @@
   "colors": {
     "primary": "#1BAA81"
   },
-  "navigation": {
+"navigation": {
     "tabs": [
       {
-        "tab": "Docs",
+        "tab": "Guides",
         "groups": [
           {
-            "group": "Overview",
+            "group": "Get Started",
             "pages": [
               "index",
-              "how-it-works",
-              "security-simplicity"
+              "quickstart",
+              "development"
             ]
           },
           {
-            "group": "Marketplace",
+            "group": "Essentials",
             "pages": [
-              "listing",
-              "fixed-bid-listing",
-              "dutch-auction",
-              "buying"
+              "essentials/markdown",
+              "essentials/code",
+              "essentials/images",
+              "essentials/settings",
+              "essentials/navigation",
+              "essentials/reusable-snippets"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "API Reference",
+        "groups": [
+          {
+            "group": "API Documentation",
+            "pages": [
+              "api-reference/introduction"
             ]
           },
           {
-            "group": "Reference",
+            "group": "Endpoint Examples",
             "pages": [
-              "contracts",
-              "risk-disclosure"
+              "api-reference/endpoint/get",
+              "api-reference/endpoint/create",
+              "api-reference/endpoint/delete",
+              "api-reference/endpoint/webhook"
             ]
           }
         ]
@@ -46,14 +61,19 @@
     "global": {
       "anchors": [
         {
-          "anchor": "App",
-          "href": "https://hyperwarp.fi",
-          "icon": "book"
+          "anchor": "Documentation",
+          "href": "https://mintlify.com/docs",
+          "icon": "book-open-cover"
         },
         {
-          "anchor": "Twitter",
-          "href": "https://twitter.com/hyperwarpfi",
-          "icon": "twitter"
+          "anchor": "Community",
+          "href": "https://mintlify.com/community",
+          "icon": "slack"
+        },
+        {
+          "anchor": "Blog",
+          "href": "https://mintlify.com/blog",
+          "icon": "newspaper"
         }
       ]
     }
