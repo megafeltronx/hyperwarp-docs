@@ -56,14 +56,14 @@
         {
           "anchor": "Discord",
           "href": "https://discord.com/invite/rRkWCYPeas",
-          "icon": "dicord"
+          "icon": "discord"
         }
       ]
     }
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "https://www.hyperwarp.fi/logo.svg",
+    "dark": "https://www.hyperwarp.fi/logo.svg"
   },
   "navbar": {
     "links": [
