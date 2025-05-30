@@ -44,19 +44,19 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
+          "anchor": "App",
+          "href": "https://hyperwarp.fi",
+          "icon": "book"
         },
         {
-          "anchor": "Community",
-          "href": "https://mintlify.com/community",
-          "icon": "slack"
+          "anchor": "X (Twitter)",
+          "href": "https://twitter.com/hyperwarpfi",
+          "icon": "twitter"
         },
         {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
+          "anchor": "Discord",
+          "href": "https://discord.com/invite/rRkWCYPeas",
+          "icon": "dicord"
         }
       ]
     }
