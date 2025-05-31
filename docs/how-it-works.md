@@ -1,4 +1,6 @@
-# How it Works
+---
+title: How it Works
+---
 
 HyperWarp is a non-custodial marketplace designed to unlock liquidity for vote-escrowed NFTs (veNFTs). Users can:
 
