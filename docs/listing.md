@@ -2,22 +2,20 @@
 title: Listing
 ---
 
-# Listing Your veKitten NFT
-
 There are two types of listing that can be created by sellers.
 
 ---
 
 ## Types of Listings
 
-### 🏷️ Fixed Price Listing
+### Fixed Price Listing
 
-Sell your veKitten NFT at a set price in **Kitten** (the only accepted token).
+Sell your veKitten NFT at a set price in **Kitten**.
 
 - **Example**: List for `5,000 Kitten`
 - Appears in marketplace until bought or cancelled.
 
-### ⏱️ Dutch Auction
+### Dutch Auction
 
 Set a **starting price** and a **minimum price**, and it decreases over time.
 

@@ -2,8 +2,6 @@
 title: Fixed Bid Listing Guide
 ---
 
-## Fixed Bid Listing Guide
-
 Use a **Fixed Bid** listing when you want to sell your veKitten NFT at a specific discount off its lock value. Here's how to do it:
 
 ### Step-by-Step: Listing a veKitten
@@ -14,6 +12,8 @@ Use a **Fixed Bid** listing when you want to sell your veKitten NFT at a specifi
      * **Lock veKitten Amount**
      * **Lock veKitten Value**
      * **Lock veKItten Duration**
+
+![Select veNFT Modal](./images/select.png)
 
 2. **Set a Discount**
    * Enter the percentage discount you'd like to offer (e.g., **15%**).
