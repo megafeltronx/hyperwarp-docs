@@ -43,6 +43,6 @@ Or HYPE pumps to $60:
 
 ---
 
-By sticking with **Kitten**, both buyers and sellers know exactly what to expect — no surprise discounts, no accidental overpays.
+*By listing everything in **Kitten**, the price is stable within the protocol, both buyers and sellers know exactly what to expect — no surprise discounts, no accidental overpays.*
 
-*By listing everything in **Kitten**, the price is stable within the protocol. No guessing. No recalculating discounts based on token volatility. Buyers and sellers stay aligned.*
+
