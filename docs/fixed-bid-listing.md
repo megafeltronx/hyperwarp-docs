@@ -22,7 +22,7 @@ Use a **Fixed Bid** listing when you want to sell your veKitten NFT at a specifi
      * e.g., $10,000 × 85% = **8,500 KITTEN**
 
 3. **Review Details**
-   * **Listing Fee (1%)** is subtracted from the sale:
+   * **Listing Fee (1.5%)** is subtracted from the sale:
    * **Proceeds** (what you receive if sold):
 
 4. **Approve NFT**
@@ -32,5 +32,5 @@ Use a **Fixed Bid** listing when you want to sell your veKitten NFT at a specifi
    * After approval, finalize the listing by clicking "Create Sale" confirming the transaction in your wallet.
 
 ### What Buyers See
-* Buyers will see the NFT available at the discounted price (e.g., **8,500 KITTEN** for a $10,000 lock).
+* Buyers will see the NFT available at the discounted price (e.g., **8,500 KITTEN** for a **10,000 KITTEN** lock).
 * Once purchased, the buyer receives the veKitten NFT and inherits the lock position.
