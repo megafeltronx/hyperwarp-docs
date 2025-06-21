@@ -4,45 +4,43 @@ title: Security & Simplicity
 
 ## Security & Simplicity
 
-HyperWarp prioritizes security and simplicity by supporting a **limited set of whitelisted assets**:
+HyperWarp prioritizes simplicity and safety by supporting only whitelisted assets:
 
-* **NFTs**: Only **veKitten** is currently supported
-* **Tokens**: All purchases are made using **Kitten**, the native token of the ecosystem
+- **NFTs:** Only `veKitten` is currently supported  
+- **Tokens:** Listings are priced in **Kitten** or **wHYPE**, depending on seller preference
 
-Restricting the tradable assets minimizes attack surface and ensures consistency in the marketplace logic.
-
-### Here's what can go wrong with volatile pricing:
-
-Let’s say:  
-- 1 **HYPE** = **$40**  
-- 1 **veKitten** = **$1**  
-- A seller lists **10,000 veKitten** for **250 HYPE**
-
-At the time of listing, this makes sense:  
-> 250 HYPE × $40 = $10,000  
-> 10,000 veKitten × $1 = $10,000  
-> → A fair deal
-
-But now imagine HYPE drops to $20:  
-> 250 HYPE × $20 = $5,000  
-> → The same listing now offers a **50% discount**
-
-Or HYPE pumps to $60:  
-> 250 HYPE × $60 = $15,000  
-> → Buyer overpays by 50% — maybe without realizing it
+By restricting tradable assets, the marketplace reduces attack surfaces and keeps its pricing logic straightforward. 
+<Danger>However, sellers choosing to list in **wHYPE** must understand the implications of volatility.</Danger>
 
 ---
 
-### Comparison Table
+### Why Volatile Tokens Carry Risk
 
-| Pricing Token | Market Movement | Buyer Pays (USD) | Outcome            |
-|---------------|------------------|------------------|---------------------|
-| **Kitten**    | Any              | $10,000          | Stable / Predictable |
-| **HYPE**      | Drops to $20     | $5,000           | Buyer gets 50% discount |
-| **HYPE**      | Rises to $60     | $15,000          | Buyer overpays by 50% |
+Let's break it down with a real example:
+
+| Scenario              | 1 wHYPE = $40 | 1 veKitten = $1 | Listing = 10,000 veKitten for 250 wHYPE |
+|-----------------------|---------------|------------------|------------------------------------------|
+| **At Listing Time**   | 250 wHYPE × $40 = $10,000 | Fair Market Value | → A fair deal                          |
+| **wHYPE Drops to $20**| 250 wHYPE × $20 = $5,000  | → Buyer gets a 50% discount             |
+| **wHYPE Pumps to $60**| 250 wHYPE × $60 = $15,000 | → Buyer overpays by 50%                 |
 
 ---
 
-*By listing everything in **Kitten**, the price is stable within the protocol, both buyers and sellers know exactly what to expect — no surprise discounts, no accidental overpays.*
+### 🪙 Comparison Table
+
+| Pricing Token | Market Movement   | Buyer Pays (USD) | Outcome                      |
+|---------------|-------------------|------------------|------------------------------|
+| **Kitten**    | Any               | $10,000          | Stable, predictable pricing  |
+| **wHYPE**     | Drops to $20      | $5,000           | Buyer gets 50% discount      |
+| **wHYPE**     | Rises to $60      | $15,000          | Buyer overpays by 50%        |
+
+---
+
+**Takeaway:**  
+Pricing in **Kitten** offers consistency and eliminates guesswork. **wHYPE** provides flexibility — but introduces volatility risks. Sellers should consider what best fits their strategy before listing.
+
+---
+<Tip>*By listing everything in **Kitten**, the price is stable within the protocol, both buyers and sellers know exactly what to expect — no surprise discounts, no accidental overpays.*</Tip>
+
 
 
