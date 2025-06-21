@@ -12,6 +12,8 @@ A **Dutch Auction** allows you to sell your veKitten NFT with a **gradual discou
 - Choose the veKitten NFT you want to list.
 - The UI will auto-fill the lock details.
 
+![Select veNFT Modal](./images/select.png)
+
 ---
 
 ### 2. **Set Auction Parameters**
