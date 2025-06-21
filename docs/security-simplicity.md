@@ -2,8 +2,6 @@
 title: Security & Simplicity
 ---
 
-## Security & Simplicity
-
 HyperWarp prioritizes simplicity and safety by supporting only whitelisted assets:
 
 - **NFTs:** Only `veKitten` is currently supported  
