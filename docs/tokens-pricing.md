@@ -1,5 +1,5 @@
 ---
-title: Security & Simplicity
+title: Accepted Tokens & Pricing Logic
 ---
 
 HyperWarp prioritizes simplicity and safety by supporting only whitelisted assets:
