@@ -33,12 +33,13 @@ Let's break it down with a real example:
 | **wHYPE**     | Rises to $60      | $15,000          | Buyer overpays by 50%        |
 
 ---
+<Tip>*By listing everything in **Kitten**, the price is stable within the protocol, both buyers and sellers know exactly what to expect — no surprise discounts, no accidental overpays.*</Tip>
 
 **Takeaway:**  
 Pricing in **Kitten** offers consistency and eliminates guesswork. **wHYPE** provides flexibility — but introduces volatility risks. Sellers should consider what best fits their strategy before listing.
 
 ---
-<Tip>*By listing everything in **Kitten**, the price is stable within the protocol, both buyers and sellers know exactly what to expect — no surprise discounts, no accidental overpays.*</Tip>
+
 
 
 
