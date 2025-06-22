@@ -12,7 +12,7 @@ A **Dutch Auction** allows you to sell your veKitten NFT with a **gradual discou
 - Choose the veKitten NFT you want to list.
 - The UI will auto-fill the lock details.
 
-![Select veNFT Modal](./images/select.png)
+![Select veNFT Modal](./images/select.jpg)
 
 ---
 
@@ -31,6 +31,8 @@ A **Dutch Auction** allows you to sell your veKitten NFT with a **gradual discou
 
    → The price drops daily by ~167 KITTEN until it hits 5,000  
    → If the auction runs longer (e.g., 60 days), the price stays fixed at 5,000 after day 30
+
+   ![Select veNFT Modal](./images/dutchauction-parameters.jpg)
 
 ---
 

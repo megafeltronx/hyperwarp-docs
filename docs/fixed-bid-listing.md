@@ -13,7 +13,7 @@ Use a **Fixed Bid** listing when you want to sell your veKitten NFT at a specifi
      * **Lock veKitten Value**
      * **Lock veKItten Duration**
 
-![Select veNFT Modal](./images/select.png)
+![Select veNFT Modal](./images/select.jpg)
 
 2. **Set a Discount**
    * Enter the percentage discount you'd like to offer (e.g., **15%**).
