@@ -25,14 +25,23 @@ A **Dutch Auction** allows you to sell your veKitten NFT with a **gradual discou
   _(e.g., you can run a 60-day auction but have the discounting end on day 30 — price stays flat after that.)_
 
   #### Example:
-   - **Start Price**: 10,000 KITTEN  
-   - **End Price**: 5,000 KITTEN  
-   - **Discount Duration**: 30 days  
 
-   → The price drops daily by ~167 KITTEN until it hits 5,000  
-   → If the auction runs longer (e.g., 60 days), the price stays fixed at 5,000 after day 30
+  Start Price: **6.688 wHYPE** ($232.47)  
+  End Price: **4.928 wHYPE** ($171.29)  
 
-   ![Select veNFT Modal](./images/dutchauction-parameters.jpg)
+  → If sold early, you receive up to **6.688 wHYPE**  
+  → If sold at the end, you receive **4.928 wHYPE**  
+  → The price drops daily by ~0.058 wHYPE until it hits 4.928  
+    → If the auction runs longer (e.g., 60 days), the price stays fixed at 4.928 after day 30
+
+  **Marketplace Fee (1.5%)** is subtracted from the final sale price.  
+  **Final Proceeds**:
+
+  - Max: **6.587 wHYPE** ($228.98)  
+  - Min: **4.854 wHYPE** ($168.72)
+
+
+   ![Select veNFT Modal](./images/dutchauction-listing-details.jpg)
 
 ---
 
