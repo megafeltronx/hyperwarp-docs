@@ -38,25 +38,25 @@ A **Dutch Auction** allows you to sell your veKitten NFT with a **gradual discou
 
 ### 3. **Review Listing Details**
 
- * The platform shows a breakdown of your expected proceeds.
-   * Because pricing decays over time, you’ll see the **maximum** and **minimum** proceeds depending on when the sale happens.
+  * The platform shows a breakdown of your expected proceeds.
+  * Because pricing decays over time, you’ll see the **maximum** and **minimum** proceeds depending on when the sale happens.
 
-   #### Example:
+  #### Example:
 
-  Start Price: **6.688 wHYPE** ($232.47)  
-  End Price: **4.928 wHYPE** ($171.29)  
+    Start Price: **6.688 wHYPE** ($232.47) 
+    End Price: **4.928 wHYPE** ($171.29)  
 
-  → If sold early, you receive up to **6.688 wHYPE**  
-  → If sold at the end, you receive **4.928 wHYPE**
+    → If sold early, you receive up to **6.688 wHYPE**  
+    → If sold at the end, you receive **4.928 wHYPE**
 
-  **Marketplace Fee (1.5%)** is subtracted from the final sale price.  
-  **Final Proceeds**:
+    **Marketplace Fee (1.5%)** is subtracted from the final sale price.  
+    **Final Proceeds**:
 
-  - Max: **6.587 wHYPE** ($228.98)  
-  - Min: **4.854 wHYPE** ($168.72)
+    - Max: **6.587 wHYPE** ($228.98)  
+    - Min: **4.854 wHYPE** ($168.72)
 
 
-   ![Select veNFT Modal](./images/dutchauction-listing-details.jpg)
+    ![Select veNFT Modal](./images/dutchauction-listing-details.jpg)
 
 ---
 
