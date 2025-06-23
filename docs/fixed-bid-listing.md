@@ -21,9 +21,13 @@ Use a **Fixed Bid** listing when you want to sell your veKitten NFT at a specifi
      * **Listing Price** = Lock Value × (1 − Discount)
      * e.g., $10,000 × 85% = **8,500 KITTEN**
 
+   ![Select veNFT Modal](./images/fixed-bid.png)
+
 3. **Review Details**
    * **Listing Fee (1.5%)** is subtracted from the sale:
    * **Proceeds** (what you receive if sold):
+
+   ![Select veNFT Modal](./images/fixed-bid-review.jpg)
 
 4. **Approve NFT**
    * Click **"Approve veNFT"** to allow the marketplace contract to manage this NFT.
