@@ -25,23 +25,14 @@ A **Dutch Auction** allows you to sell your veKitten NFT with a **gradual discou
   _(e.g., you can run a 60-day auction but have the discounting end on day 30 — price stays flat after that.)_
 
   #### Example:
+   - **Start Price**: 10,000 KITTEN  
+   - **End Price**: 5,000 KITTEN  
+   - **Discount Duration**: 30 days  
 
-  Start Price: **6.688 wHYPE** ($232.47)  
-  End Price: **4.928 wHYPE** ($171.29)  
+   → The price drops daily by ~167 KITTEN until it hits 5,000  
+   → If the auction runs longer (e.g., 60 days), the price stays fixed at 5,000 after day 30
 
-  → If sold early, you receive up to **6.688 wHYPE**  
-  → If sold at the end, you receive **4.928 wHYPE**  
-  → The price drops daily by ~0.058 wHYPE until it hits 4.928  
-    → If the auction runs longer (e.g., 60 days), the price stays fixed at 4.928 after day 30
-
-  **Marketplace Fee (1.5%)** is subtracted from the final sale price.  
-  **Final Proceeds**:
-
-  - Max: **6.587 wHYPE** ($228.98)  
-  - Min: **4.854 wHYPE** ($168.72)
-
-
-   ![Select veNFT Modal](./images/dutchauction-listing-details.jpg)
+   ![Select veNFT Modal](./images/dutchauction-parameters.jpg)
 
 ---
 
@@ -51,16 +42,21 @@ A **Dutch Auction** allows you to sell your veKitten NFT with a **gradual discou
    * Because pricing decays over time, you’ll see the **maximum** and **minimum** proceeds depending on when the sale happens.
 
    #### Example:
-   - **Start Price**: 9,000 KITTEN ($9,000)
-   - **End Price**: 6,000 KITTEN ($6,000)
 
-   → If sold early, you receive up to **9,000 KITTEN**  
-   → If sold at the end, you receive **6,000 KITTEN**
+  Start Price: **6.688 wHYPE** ($232.47)  
+  End Price: **4.928 wHYPE** ($171.29)  
+
+  → If sold early, you receive up to **6.688 wHYPE**  
+  → If sold at the end, you receive **4.928 wHYPE**
+
+  **Marketplace Fee (1.5%)** is subtracted from the final sale price.  
+  **Final Proceeds**:
+
+  - Max: **6.587 wHYPE** ($228.98)  
+  - Min: **4.854 wHYPE** ($168.72)
 
 
-
-   * **Listing Fee (1.5%)** is deducted from the final sale price.
-   * Final proceeds = Sale Price × (1 − 0.015)
+   ![Select veNFT Modal](./images/dutchauction-listing-details.jpg)
 
 ---
 
