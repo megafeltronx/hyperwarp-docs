@@ -24,7 +24,7 @@ Use a **Fixed Bid** listing when you want to sell your veKitten NFT at a specifi
    ![Select veNFT Modal](./images/fixed-bid.png)
 
 3. **Review Details**
-   * **Listing Fee (1.5%)** is subtracted from the sale:
+   * **Marketplace Fee (1.5%)** is subtracted from the sale:
    * **Proceeds** (what you receive if sold):
 
    ![Select veNFT Modal](./images/fixed-bid-review.jpg)

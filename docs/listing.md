@@ -23,7 +23,7 @@ Set a **starting price** and a **minimum price**, and it decreases over time.
 - Encourages quick bidding and price discovery.
 
 
-## Listing Fees
+## Marketplace Fees
 
 | Action         | Fee (%) | Notes                      |
 |----------------|---------|----------------------------|
