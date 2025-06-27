@@ -62,7 +62,7 @@
   },
   "logo": {
     "light": "https://www.hyperwarp.fi/logo.svg",
-    "dark": "https://www.hyperwarp.fi/logo.svg"
+    "dark": "https://www.hyperwarp.fi/logo-dark.svg"
   },
   "navbar": {
     "links": [
