@@ -15,3 +15,7 @@ To buy a veKitten NFT:
 5. Once confirmed, the **veKitten NFT** will appear in your wallet.
 
 > 💡 You only need to approve each token once per wallet.
+
+### 💸 Marketplace Fee
+
+A **1.5% fee** is applied at the time of purchase and is included in the total price you see. No hidden charges.
