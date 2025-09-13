@@ -4,6 +4,8 @@ title: Fixed Bid Listing Guide
 
 Use a **Fixed Bid** listing when you want to sell your veKitten NFT at a specific discount off its lock value. Here's how to do it:
 
+<Danger>IMPORTANT: The price you set for the veNFT is fixed. If you merge more tokens in to your veNFT the price will will NOT increase. You must cancel the sale and create a new one with the new price.</Danger>
+
 ### Step-by-Step: Listing a veKitten
 
 1. **Select your veNFT**
@@ -34,6 +36,9 @@ Use a **Fixed Bid** listing when you want to sell your veKitten NFT at a specifi
 
 5. **Create Sale**
    * After approval, finalize the listing by clicking "Create Sale" confirming the transaction in your wallet.
+
+
+
 
 ### What Buyers See
 * Buyers will see the NFT available at the discounted price (e.g., **8,500 KITTEN** for a **10,000 KITTEN** lock).

@@ -4,10 +4,11 @@ title: Accepted Tokens & Pricing Logic
 
 HyperWarp prioritizes simplicity and safety by supporting only whitelisted assets:
 
-- **NFTs:** Only `veKitten` is currently supported  
+- **NFTs:** `veKitten` `vePeg` are currently supported, but will be adding more in the future.  
 - **Tokens:** Listings are priced in **Kitten** or **wHYPE**, depending on seller preference
 
 By restricting tradable assets, the marketplace reduces attack surfaces and keeps its pricing logic straightforward. 
+
 <Danger>However, sellers choosing to list in **wHYPE** must understand the implications of volatility.</Danger>
 
 ---

@@ -2,7 +2,9 @@
 title: Listing
 ---
 
-There are two types of listing that can be created by sellers.
+There are two types of listing that can be created by sellers. 
+
+<Tip>Sales are non-custodial - you keep your veNFT until sold. If you vote after listing, it becomes unpurchasable until voting ends. Cancel or relist your sale anytime.</Tip>
 
 ---
 
@@ -10,7 +12,7 @@ There are two types of listing that can be created by sellers.
 
 ### Fixed Price Listing
 
-Sell your veKitten NFT at a set price in **Kitten**.
+Sell your veNFT at a set price in **Native Token**.
 
 - **Example**: List for `5,000 Kitten`
 - Appears in marketplace until bought or cancelled.
@@ -32,6 +34,8 @@ Set a **starting price** and a **minimum price**, and it decreases over time.
 | Cancel Listing | 0%      | Cancel anytime              |
 
 > Fees go toward supporting protocol development.
+
+<Danger>IMPORTANT: The price you set for the veNFT is fixed. If you merge more tokens in to your veNFT the price will will NOT increase. You must cancel the sale and create a new one with the new price.</Danger>
 
 ---
 
