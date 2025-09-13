@@ -25,6 +25,10 @@ Set a **starting price** and a **minimum price**, and it decreases over time.
 - Encourages quick bidding and price discovery.
 
 
+<Danger>IMPORTANT: The price you set for the veNFT is fixed. If you merge more tokens in to your veNFT the price will will NOT increase. You must cancel the sale and create a new one with the new price.</Danger>
+
+
+
 ## Marketplace Fees
 
 | Action         | Fee (%) | Notes                      |
@@ -34,8 +38,6 @@ Set a **starting price** and a **minimum price**, and it decreases over time.
 | Cancel Listing | 0%      | Cancel anytime              |
 
 > Fees go toward supporting protocol development.
-
-<Danger>IMPORTANT: The price you set for the veNFT is fixed. If you merge more tokens in to your veNFT the price will will NOT increase. You must cancel the sale and create a new one with the new price.</Danger>
 
 ---
 
