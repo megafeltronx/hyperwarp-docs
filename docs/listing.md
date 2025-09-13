@@ -10,6 +10,8 @@ There are two types of listing that can be created by sellers.
 
 ## Types of Listings
 
+<Danger>IMPORTANT: The price you set for the veNFT is fixed. If you merge more tokens in to your veNFT the price will will NOT increase. You must cancel the sale and create a new one with the new price.</Danger>
+
 ### Fixed Price Listing
 
 Sell your veNFT at a set price in **Native Token**.
@@ -24,8 +26,6 @@ Set a **starting price** and a **minimum price**, and it decreases over time.
 - **Example**: Start at `10,000 Kitten`, drop to `5,000 Kitten` over 48 hours
 - Encourages quick bidding and price discovery.
 
-
-<Danger>IMPORTANT: The price you set for the veNFT is fixed. If you merge more tokens in to your veNFT the price will will NOT increase. You must cancel the sale and create a new one with the new price.</Danger>
 
 
 
