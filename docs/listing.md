@@ -10,7 +10,7 @@ There are two types of listing that can be created by sellers.
 
 ## Types of Listings
 
-<Danger>IMPORTANT: The price you set for the veNFT is fixed. If you merge more tokens in to your veNFT the price will will NOT increase. You must cancel the sale and create a new one with the new price.</Danger>
+<Danger>IMPORTANT: The price you set for the veNFT is fixed. If you merge more tokens in to your veNFT the price will *NOT increase*. You must cancel the sale and create a new one with the new price.</Danger>
 
 ### Fixed Price Listing
 
